@@ -1,2 +1,3 @@
 # react-hooks
-Created with CodeSandbox
+
+This repository contains my learning and practices on React Hooks
